@@ -1,52 +1,38 @@
-# Hello World
+## Topics: Strings and Arrays
 
-The classical introductory exercise. Just say "Hello, World!"
+* Arrays: ordered lists of items often used for sequential lists
+* Strings: sequences of character data.
 
-["Hello, World!"](http://en.wikipedia.org/wiki/%22Hello,_world!%22_program) is
-the traditional first program for beginning programming in a new language
-or environment.
+### Required tasks
 
-The objectives are simple:
+**Strings**
 
-- Write a function that returns the string "Hello, World!".
-- Run the test suite and make sure that it succeeds.
-- Submit your solution and check it at the website.
+- [ ] Read String Questions in Interviews.
+  - Using a few sentences, describe what you've learned.
+- [ ] Watch [Memoization and Dynamic Programming](https://www.youtube.com/watch?v=P8Xa2BitN3I) video
+  - Using a few sentences, describe what you've learned.
+- [ ] Watch [Anagram Problem Solution](https://www.youtube.com/watch?v=3MwRGPPB4tw) video
+  - Using a few sentences, describe what you've learned.
 
-If everything goes well, you will be ready to fetch your first real exercise.
+**Arrays**
 
-* * * *
+- [ ] Read Sorting Algorithms
+  - Can you memorize one algorithm? What is it?
+- [ ] Watch [Introduction to Sorting](https://www.youtube.com/watch?v=pkkFqlG0Hds) video
+  - Using a few sentences, describe what you've learned.
+- [ ] Watch [Merge Sort](https://www.youtube.com/watch?v=KF2j-9iSf4Q) video
+  - Using a few sentences, describe what you've learned
 
-For installation and learning resources, refer to the
-[exercism help page](http://exercism.io/languages/ruby).
+**Coding**
 
-For running the tests provided, you will need the Minitest gem. Open a
-terminal window and run the following command to install minitest:
+- [x] Set up `exercism` and complete at least 2 exercises using `exercism submit`.
 
-    gem install minitest
+### Optional tasks
 
-If you would like color output, you can `require 'minitest/pride'` in
-the test file, or note the alternative instruction, below, for running
-the test file.
+- [ ] Do more tasks on exercism
+- [ ] Set up an account on Interviewbit.com and start the [Programming course](https://www.interviewbit.com/courses/programming/)
+- [ ] Finish [Time Complexity chapter](https://www.interviewbit.com/courses/programming/topics/time-complexity) in Level 1 of Interviewbit
+- [ ] Finish [Arrays chapter]((https://www.interviewbit.com/courses/programming/topics/arrays/)) in Level 2 of Interviewbit
+- [ ] Finish [Math chapter](https://www.interviewbit.com/courses/programming/topics/math/) in Level 2 of Interviewbit.
 
-In order to run the test, you can run the test file from the exercise
-directory. For example, if the test suite is called
-`hello_world_test.rb`, you can run the following command:
-
-    ruby hello_world_test.rb
-
-To include color from the command line:
-
-    ruby -r minitest/pride hello_world_test.rb
-
-The test files may have the execution bit set so you may also be able to
-run it like this:
-
-    ./hello_world_test.rb
-
-## Source
-
-This is an exercise to introduce users to using Exercism [http://en.wikipedia.org/wiki/%22Hello,_world!%22_program](http://en.wikipedia.org/wiki/%22Hello,_world!%22_program)
-
-## Submitting Incomplete Problems
-It's possible to submit an incomplete solution so you can see how others have completed the exercise.
-
+Optional
